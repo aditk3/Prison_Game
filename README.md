@@ -7,3 +7,4 @@ There will be various buttons, levers, parkour, etc in the level that the player
 
 In the Final submission, we have updated the game with finished assets and materials, as well as implement a full inventory system, full dashes, crouches, and melee combat, as well as a level that requires all three abilities to finish, and terrifying enemies that can kill you very easily. The game has the roguelike aesthetic in that you have a lot of mobility and moving around enemies is your best friend, as well as exploring the map to find the hidden keys and helpful items that can aid your journey. 
 
+[Documents & Video Demonstration](https://drive.google.com/drive/folders/1us7gsLZ-FBC5Xdz-AXF9fLdrpY-h3POF?usp=sharing)
